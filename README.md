@@ -107,7 +107,7 @@ func ReadFromFile(filePath string) ([]User, error){
 ├── entity	
 │   ├── users.go            // JSON相关操作
 ├──  logger
-│   ├── log.go			    // 日志相关操作
+│   ├── log.go              // 日志相关操作
 ├── .travis.yml
 ├── LICENSE
 ├── main.go                 // 程序入口文件
