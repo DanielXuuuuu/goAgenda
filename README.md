@@ -5,6 +5,8 @@
 > 基于cobra工具编写的CLI程序
 >
 > [课程网站](https://pmlpml.github.io/ServiceComputingOnCloud/ex-cli-agenda)
+>
+> [Go Online分享链接](http://139.9.57.167:20080/share/bmm378e76kvs669u21lg?secret=false)
 
 ### 安装cobra
 
@@ -94,21 +96,21 @@ func ReadFromFile(filePath string) ([]User, error){
 
 ```/
 ├── cmd 
-│ 	├── root.go 
-│ 	├── userLogin.go		// 用户登入
-│ 	├── userLogout.go		// 用户登出
-│ 	├── userRegister.go		// 用户注册
+│ ├── root.go 
+│ ├── userLogin.go		// 用户登入
+│ ├── userLogout.go		// 用户登出
+│ ├── userRegister.go	// 用户注册
 ├── data
-│ 	├── agendaLog.log		// 日志文件
-│ 	├── curUser.json		// 存储当前登录的用户信息
-│ 	├── userList.json		// 存储所有注册用户信息
+│ ├── agendaLog.log		// 日志文件
+│ ├── curUser.json		// 存储当前登录的用户信息
+│ ├── userList.json		// 存储所有注册用户信息
 ├── entity	
-│ 	├── users.go			// JSON相关操作
+│ ├── users.go			// JSON相关操作
 ├──  logger
-│ 	├── log.go				// 日志相关操作
+│ ├── log.go			// 日志相关操作
 ├── .travis.yml
 ├── LICENSE
-├── main.go					// 程序入口文件
+├── main.go				// 程序入口文件
 ├── README.md
 ```
 
