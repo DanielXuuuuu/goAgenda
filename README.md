@@ -99,7 +99,7 @@ func ReadFromFile(filePath string) ([]User, error){
 │ ├── root.go 
 │ ├── userLogin.go		// 用户登入
 │ ├── userLogout.go		// 用户登出
-│ ├── userRegister.go	// 用户注册
+│ ├── userRegister.go		// 用户注册
 ├── data
 │ ├── agendaLog.log		// 日志文件
 │ ├── curUser.json		// 存储当前登录的用户信息
