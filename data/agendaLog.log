@@ -1,0 +1,40 @@
+[INFO] 2019/10/20 11:53:23 userRegister called
+[INFO] 2019/10/20 11:53:23 Register succeessfully
+[INFO] 2019/10/20 11:54:04 userRegister called
+[INFO] 2019/10/20 11:54:04 Register succeessfully
+[INFO] 2019/10/20 11:58:33 userRegister called
+[ERROR] 2019/10/20 11:58:33 username existed
+[INFO] 2019/10/20 11:58:33 Register failed
+[INFO] 2019/10/20 11:58:58 userRegister called
+[ERROR] 2019/10/20 11:58:58 email registered
+[INFO] 2019/10/20 11:58:58 Register failed
+[INFO] 2019/10/20 11:59:24 userRegister called
+[ERROR] 2019/10/20 11:59:24 invalid phone number
+[INFO] 2019/10/20 11:59:24 Register failed
+[INFO] 2019/10/20 12:03:19 userLogin called
+[INFO] 2019/10/20 12:03:19 Login successfully
+[INFO] 2019/10/20 12:04:39 userLogin called
+[ERROR] 2019/10/20 12:04:39 already login
+[INFO] 2019/10/20 12:04:39 Login failed
+[INFO] 2019/10/20 12:05:25 userLogin called
+[ERROR] 2019/10/20 12:05:25 already login
+[INFO] 2019/10/20 12:05:25 Login failed
+[INFO] 2019/10/20 12:05:31 userLogout callled
+[INFO] 2019/10/20 12:05:31 Logout successfully
+[INFO] 2019/10/20 12:05:55 userLogin called
+[ERROR] 2019/10/20 12:05:55 incorrect username or password, please check and try again!
+[INFO] 2019/10/20 12:05:55 Login failed
+[INFO] 2019/10/20 12:06:41 userLogin called
+[INFO] 2019/10/20 12:06:41 Login successfully
+[INFO] 2019/10/20 12:08:38 userLogout callled
+[INFO] 2019/10/20 12:08:38 Logout successfully
+[INFO] 2019/10/20 12:08:47 userLogin called
+[ERROR] 2019/10/20 12:08:47 incorrect username or password, please check and try again!
+[INFO] 2019/10/20 12:08:47 Login failed
+[INFO] 2019/10/20 12:11:02 userLogin called
+[INFO] 2019/10/20 12:11:02 Login successfully
+[INFO] 2019/10/20 12:11:08 userLogout callled
+[INFO] 2019/10/20 12:11:08 Logout successfully
+[INFO] 2019/10/20 12:11:10 userLogout callled
+[ERROR] 2019/10/20 12:11:10 Logout before login
+[INFO] 2019/10/20 12:11:10 Logout failed
