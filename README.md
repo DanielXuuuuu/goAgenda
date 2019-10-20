@@ -1,6 +1,6 @@
 # goAgenda
 
-![Build Status](https://travis-ci.org/DanielXuuuuu/goAgenda.svg?branch=master)
+![Build Status](https://travis-ci.org/DanielXuuuuu/goAgenda)
 
 > 基于cobra工具编写的CLI程序
 >
