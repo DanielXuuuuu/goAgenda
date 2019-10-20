@@ -1,5 +1,7 @@
 # goAgenda
 
+![Build Status](https://travis-ci.org/DanielXuuuuu/goAgenda.svg?branch=master)
+
 > 基于cobra工具编写的CLI程序
 >
 > [课程网站](https://pmlpml.github.io/ServiceComputingOnCloud/ex-cli-agenda)
@@ -369,7 +371,9 @@ func WriteLog(prefix string, content string){
 
 > 持续集成：Continuous Integration，简称CI，意思是，在一个项目中，任何人对代码库的任何改动，都会触发CI服务器自动对项目进行构建，自动运行测试，甚至自动部署到测试环境。这样做的好处就是，随时发现问题，随时修复。因为修复问题的成本随着时间的推移而增长，越早发现，修复成本越低。
 >
-> [参考网站](https://studygolang.com/articles/11250)
+> [参考网站](https://www.liaoxuefeng.com/article/1083103562955136)
+
+`.travis.yml`文件内容如下：
 
 ```go
 language: 
